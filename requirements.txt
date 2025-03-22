@@ -1,0 +1,6 @@
+fake_useragent==2.0.3
+PyQt6==6.8.1
+PyQt6_sip==13.10.0
+Requests==2.32.3
+selenium==4.30.0
+undetected_chromedriver==3.5.5
